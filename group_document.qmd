@@ -4,6 +4,7 @@
 print('hejhej')
 ```
 
+
 ## Ida
 
 This is my section
@@ -23,13 +24,6 @@ This is my section
 
 ## Mathilde
 
-This is my section
-
-```{r}
-x <- 3
-y <- 4
-x*y
-```
 
 ## Ulrikke
 
@@ -37,6 +31,3 @@ x*y
 print(2+2)
 ```
 
-### New feature
-
-hej hej
