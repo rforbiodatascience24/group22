@@ -27,12 +27,23 @@ library("tidyverse")
 ## Load data
 
 ```{r}
-cancer_data <- read_csv(file = "data/gravier.RData")
+load(file = here("data/gravier.RData"))
 
 ```
 
 ```{r}
-cancer_data
+base_url <- "http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/ecological/"
+raw_data_path <- "data/_raw/"
+
+SPE <- read_csv(file = str_c(base_url, "SPE_pitlatrine.csv"))
+write_csv(x = SPE,
+          file = str_c(raw_data_path, "SPE_pitlatrine.csv"))
+
+ENV <- read_csv(file = str_c(base_url, "ENV_pitlatrine.csv"))
+write_csv(x = ENV,
+          file = str_c(raw_data_path, "ENV_pitlatrine.csv"))
+
+
 ```
 
 ## Analysis
