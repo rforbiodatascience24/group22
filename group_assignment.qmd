@@ -26,6 +26,15 @@ library("tidyverse")
 
 ## Load data
 
+```{r}
+cancer_data <- read_csv(file = "data/gravier.RData")
+
+```
+
+```{r}
+cancer_data
+```
+
 ## Analysis
 
 ## Conclusion
