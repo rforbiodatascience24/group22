@@ -6,8 +6,12 @@
 
 ## Load libraries
 
+```{r}
+library("tidyverse")
+```
+
 ## Load data
 
-## Analysis 
+## Analysis
 
-## Conclusion 
+## Conclusion
