@@ -10,12 +10,13 @@ Mathilde Stenholt: s200047
 
 Ida Lundberg: s215029
 
-
 ## Background
 
 The data is patients with breast cancer. They are grouped into different categories; age, status after diagnosis, and gene expression levels (2905 different genes are measured).
 
 ## Aim
+
+To investigate the correlation between expression level of the gene g1CNS507 and event after diagnosis.
 
 ## Load libraries
 
