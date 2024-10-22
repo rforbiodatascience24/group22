@@ -1,10 +1,8 @@
 ## Nicoline
 
-
-``` {r}
+```{r}
 print('hejhej')
 ```
-
 
 ## Ida
 
@@ -18,10 +16,16 @@ This is my section
 
 ## Mathilde
 
+This is my section
+
+```{r}
+x <- 3
+y <- 4
+x*y
+```
 
 ## Ulrikke
 
 ```{r}
 print(2+2)
 ```
-
