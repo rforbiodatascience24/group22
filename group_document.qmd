@@ -6,22 +6,59 @@ print('hejhej')
 
 ## Ida
 
-Now I will try to add two numbers together
+### New analysis
+
+Hej med jerrr
 
 ```{r}
-1+1
+x <- 1
+y <- 2
+x*y
+```
+
+This is my section
+
+```{r}
+x <- 1+1
+print(x)
 ```
 
 ## Anna
 
-## Mathilde
-
-I have multiplied two values:
+This is my section
 
 ```{r}
-x <- 2
+2+2
+```
+
+#### New feature
+
+This is a new section with a few code chunks
+
+```{r}
+print("Hello world")
+```
+
+```{r}
+4*4
+```
+
+## Mathilde
+
+This is my section
+
+```{r}
+x <- 3
 y <- 4
 x*y
+```
+
+#### New feature
+
+Here is some new text:
+
+```{r}
+4*7
 ```
 
 ## Ulrikke
@@ -29,7 +66,3 @@ x*y
 ```{r}
 print(2+2)
 ```
-
-### New feature
-
-hej hej
