@@ -1,5 +1,9 @@
 ## Nicoline
 
+``` r
+print('hejhej')
+```
+
 ## Ida
 
 Now I will try to add two numbers together
@@ -15,5 +19,5 @@ Now I will try to add two numbers together
 ## Ulrikke
 
 ``` r
-print('hey world')
+print(2+2)
 ```
