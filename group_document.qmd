@@ -23,6 +23,14 @@ This is my section
 
 ## Mathilde
 
+#### New feature
+
+Here is some new text:
+
+```{r}
+4*7
+```
+
 ## Ulrikke
 
 ```{r}
