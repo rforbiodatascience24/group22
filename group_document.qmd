@@ -1,6 +1,16 @@
 ## Nicoline
 
+``` r
+print('hejhej')
+```
+
 ## Ida
+
+Now I will try to add two numbers together
+
+```{r}
+1+1
+```
 
 ## Anna
 
@@ -15,3 +25,7 @@ x*y
 ```
 
 ## Ulrikke
+
+``` r
+print(2+2)
+```
