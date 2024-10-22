@@ -16,6 +16,8 @@ The data is patients with breast cancer. They are grouped into different categor
 
 ## Aim
 
+To investigate the correlation between expression level of the gene g1CNS507 and event after diagnosis.
+
 ## Load libraries
 
 ```{r}
