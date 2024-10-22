@@ -1,8 +1,14 @@
-## Nicoline 
+## Nicoline
 
-## Ida 
+## Ida
 
 ## Anna
+
+This is my section
+
+```{r}
+2+2
+```
 
 ##Mathilde
 
