@@ -9,5 +9,5 @@
 ## Ulrikke
 
 ``` r
-print('hey world')
+print(2+2)
 ```
