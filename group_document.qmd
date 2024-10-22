@@ -8,6 +8,26 @@ print('hejhej')
 
 ## Ida
 
+### New analysis
+
+Hej med jerrr
+
+Hej hej venner
+
+```{r}
+x <- 1
+y <- 2
+x*y
+```
+
+
+This is my section
+
+```{r}
+x <- 1+1
+print(x)
+```
+
 ## Anna
 
 This is my section
@@ -16,10 +36,42 @@ This is my section
 2+2
 ```
 
+#### New feature
+
+This is a new section with a few code chunks
+
+```{r}
+print("Hello world")
+```
+
+```{r}
+4*4
+```
+
 ## Mathilde
+
+This is my section
+
+```{r}
+x <- 3
+y <- 4
+x*y
+```
+
+#### New feature
+
+Here is some new text:
+
+```{r}
+4*7
+```
 
 ## Ulrikke
 
 ```{r}
 print(2+2)
 ```
+
+### new feature
+
+hej hej hej
