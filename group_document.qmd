@@ -66,3 +66,7 @@ Here is some new text:
 ```{r}
 print(2+2)
 ```
+
+### new feature
+
+hej
