@@ -24,18 +24,40 @@ To investigate the correlation between expression level of the gene g1CNS507 and
 library("tidyverse")
 ```
 
-## Load data
+## Loading and cleaning data
 
 ```{r}
 load("data/gravier.RData")
 
 ```
 
-```{r}
+Cleaning the data and renaming:
 
+```{r}
+set.seed(676571)
+cancer_data=mutate(as_tibble(pluck(gravier,"x")),y=pluck(gravier,"y"),pt_id=1:length(pluck(gravier, "y")),age=round(rnorm(length(pluck(gravier,"y")),mean=55,sd=10),1))
+cancer_data=rename(cancer_data,event_label=y)
+cancer_data$age_group=cut(cancer_data$age,breaks=seq(10,100,by=10))
+cancer_data=relocate(cancer_data,c(pt_id,age,age_group,pt_id,event_label))
+```
+
+Viewing the data
+
+```{r}
+cancer_data
 ```
 
 ## Analysis
+
+Making a plot to see the correlation between the g1CNS507 gene expression level and the event after diagnosis.
+
+```{r}
+ggplot(
+  data = cancer_data,
+  mapping = aes(x = g1CNS507, y = event_label, fill = event_label)) +
+  geom_boxplot(alpha = 0.5) + 
+  labs(title = "A prognostic DNA signature for T1T2 node-negative breast cancer patients", subtitle = "Labelling: good=no event, poor=early metastasis", x = "Expression level of g1CNS507 (log2 transformed)", y = "Event After Diagnosis", caption = "Data from gavier et. al. (2010)", fill = "Event label")
+```
 
 ## Conclusion
 
