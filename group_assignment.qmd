@@ -1,10 +1,14 @@
 # Microreport
-Nicoline Hansen: s203530
-Ulrikke Furland: s204526
-Anna Rasmussen: s215071
-Mathilde Stenholt: s200047
-Ida Lundberg: s215029
 
+Nicoline Hansen: s203530
+
+Ulrikke Furland: s204526
+
+Anna Rasmussen: s215071
+
+Mathilde Stenholt: s200047
+
+Ida Lundberg: s215029
 
 ## Background
 
