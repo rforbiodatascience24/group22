@@ -1,6 +1,6 @@
 ## Nicoline
 
-``` r
+``` {r}
 print('hejhej')
 ```
 
