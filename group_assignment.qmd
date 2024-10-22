@@ -29,3 +29,5 @@ library("tidyverse")
 ## Analysis
 
 ## Conclusion
+
+More of the persons who have high expression of the gene g1CNS507 have no event after diagnosis compared to people who has lower expression of this gene.
