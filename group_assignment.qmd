@@ -26,12 +26,6 @@ library("tidyverse")
 
 ## Load data
 
-```{r}
-target_url <- "https://github.com/ramhiser/datamicroarray/raw/master/data/gravier.RData"
-output_file <- "data/gravier.RData"
-curl::curl_download(url = target_url, destfile = output_file)
-```
-
 ## Analysis
 
 ## Conclusion
