@@ -6,6 +6,10 @@ print('hejhej')
 
 ##### New feature
 
+```{r}
+print(2+6)
+```
+
 ## Ida
 
 ## Anna
