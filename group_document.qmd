@@ -1,9 +1,17 @@
-## Nicoline 
+## Nicoline
 
-## Ida 
+## Ida
 
 ## Anna
 
-##Mathilde
+## Mathilde
+
+I have multiplied two values:
+
+```{r}
+x <- 2
+y <- 4
+x*y
+```
 
 ## Ulrikke
