@@ -6,6 +6,16 @@ print('hejhej')
 
 ## Ida
 
+### New analysis
+
+Hej med jerrr
+
+```{r}
+x <- 1
+y <- 2
+x*y
+```
+
 This is my section
 
 ```{r}
@@ -23,6 +33,13 @@ This is my section
 
 ## Mathilde
 
+This is my section
+
+```{r}
+x <- 3
+y <- 4
+x*y
+```
 #### New feature
 
 Here is some new text:
@@ -30,6 +47,7 @@ Here is some new text:
 ```{r}
 4*7
 ```
+
 
 ## Ulrikke
 
