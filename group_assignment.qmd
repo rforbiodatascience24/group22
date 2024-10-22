@@ -10,7 +10,10 @@ Mathilde Stenholt: s200047
 
 Ida Lundberg: s215029
 
+
 ## Background
+
+The data is patients with breast cancer. They are grouped into different categories; age, status after diagnosis, and gene expression levels (2905 different genes are measured).
 
 ## Aim
 
