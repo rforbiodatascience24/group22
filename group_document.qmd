@@ -26,6 +26,6 @@ x*y
 
 ## Ulrikke
 
-``` r
+```{r}
 print(2+2)
 ```
