@@ -4,8 +4,6 @@
 print('hejhej')
 ```
 
-\####### New feature
-
 ## Ida
 
 ## Anna
