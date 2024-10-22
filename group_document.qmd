@@ -1,5 +1,11 @@
 ## Nicoline
 
+
+``` {r}
+print('hejhej')
+```
+
+
 ## Ida
 
 ## Anna
@@ -12,4 +18,10 @@ This is my section
 
 ## Mathilde
 
+
 ## Ulrikke
+
+```{r}
+print(2+2)
+```
+
