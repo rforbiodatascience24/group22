@@ -1,10 +1,10 @@
 ## Nicoline
 
-
-``` {r}
+```{r}
 print('hejhej')
 ```
 
+##### New feature
 
 ## Ida
 
@@ -18,10 +18,8 @@ This is my section
 
 ## Mathilde
 
-
 ## Ulrikke
 
 ```{r}
 print(2+2)
 ```
-
