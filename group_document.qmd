@@ -1,6 +1,6 @@
 ## Nicoline
 
-``` {r}
+```{r}
 print('hejhej')
 ```
 
@@ -29,3 +29,7 @@ x*y
 ```{r}
 print(2+2)
 ```
+
+### New feature
+
+hej hej
