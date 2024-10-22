@@ -52,6 +52,7 @@ x <- 3
 y <- 4
 x*y
 ```
+
 #### New feature
 
 Here is some new text:
@@ -59,7 +60,6 @@ Here is some new text:
 ```{r}
 4*7
 ```
-
 
 ## Ulrikke
 
