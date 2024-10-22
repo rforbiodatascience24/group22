@@ -4,16 +4,6 @@
 print('hejhej')
 ```
 
-##### New feature
-
-Hej hej venner
-
-```{r}
-print(2+8)
-```
-
-My section
-
 ## Ida
 
 ## Anna
