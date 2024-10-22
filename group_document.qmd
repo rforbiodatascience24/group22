@@ -31,6 +31,18 @@ This is my section
 2+2
 ```
 
+#### New feature
+
+This is a new section with a few code chunks
+
+```{r}
+print("Hello world")
+```
+
+```{r}
+4*4
+```
+
 ## Mathilde
 
 This is my section
